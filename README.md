@@ -44,7 +44,7 @@ These papers should help the reader better appreciate the design and implementat
  * [Query Evaluation Techniques for Large Databases](http://bnrg.cs.berkeley.edu/~adj/cs262/papers/graefe.pdf)
  * [Join Processing in Database Systems with Large Main Memories](http://daslab.seas.harvard.edu/reading-group/papers/join.pdf)
  * [Data Cube : A Relational Aggregation Operator Generalizing Group By, Cross Tab, and Sub Totals](http://research.microsoft.com/pubs/69578/tr-95-22.pdf)
- * [An Overview of Data Warehousing and OLAP Technology](http://research.microsoft.com/pubs/76058/sigrecord.pdf)
+ * [An Overview of Data Warehousing and OLAP Technology](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf)
 
 ## Concurrency Control
 
